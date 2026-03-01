@@ -207,6 +207,7 @@ drop <atributo 2>,
 ...
 drop <atributo n>;
 ```
+> O tipo SERIAL no PostgreSQL cria colunas de inteiros auto-incrementais.
 
 ## Documentação SQL - Partes restantes:
 https://www.postgresql.org/docs/current/
